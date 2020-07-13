@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hiya! 🤓👋
 
 <!--
 **DinushiJayasekara/DinushiJayasekara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Nice to see you here 🤗 <br>
+I'm Dinushi(👩). An undergraduate who loves to code and create websites!👻💻 <br><br>
+Favourite Programming Languages - PHP 🐘💙 Java ☕💚 JavaScript 🌕💜 <br>
+Reach out to me at jkdrj02@gmail.com 🖤
