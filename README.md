@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 Nice to see you here 🤗 <br>
-I'm Dinushi (👩). An undergraduate who loves to code and create websites!👻💻 <br><br>
+I'm Dinushi. An undergraduate who loves to code and develop applications!👻💻 <br><br>
 Favourite Languages - PHP 🐘💙 Java ☕💚 <br> <br>
 Reach out to me at jkdrj02@gmail.com 🖤
