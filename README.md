@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I'm Dinushi. An undergraduate who loves to code and create applications!👻💻 <br><br>
-Favourite Languages - PHP 🐘 Java ☕ <br> <br>
-Reach out to me at jkdrj02@gmail.com 🖤
+Languages - PHP 🐘 Java ☕ <br> <br>
+Reach out to me at dinushijayasekara00@gmail.com 🖤
